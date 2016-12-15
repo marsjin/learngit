@@ -6,7 +6,11 @@ Git问题解决方法汇总
 
 解决办法，在文件夹目录下执行以下命令：
 
-git init git remote add origin gitpath git fetch git branch master origin/master git checkout master
+git init 
+git remote add origin gitpath 
+git fetch 
+git branch master origin/master 
+git checkout master
 
 接着可以看到Git上的.bashrc出现在本地目录下
 
