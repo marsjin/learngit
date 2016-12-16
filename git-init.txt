@@ -1,0 +1,6 @@
+echo "# lua_nginx" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/marsjin/lua_nginx.git
+git push -u origin master
